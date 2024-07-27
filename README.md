@@ -1,2 +1,1 @@
-# ppp-practice
-Programming: Principles and Practice Using C++, Third Edition exercises, drills, and try this's
+Drills and exercises from the third edition of "Programming: Principles and Practice Using C++" by Bjarne Stroustrup
